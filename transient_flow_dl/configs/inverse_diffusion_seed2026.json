@@ -1,0 +1,16 @@
+{
+  "experiment_name": "inverse_diffusion_seed2026",
+  "method": "diffusion",
+  "steady_root": "data\\LBM_8000_20260714_dataset",
+  "output_root": "runs",
+  "seed": 2026,
+  "base_channels": 32,
+  "batch_size": 16,
+  "epochs": 300,
+  "learning_rate": 0.0002,
+  "diffusion_steps": 100,
+  "condition_dropout": 0.1,
+  "porosity_weight": 1.0,
+  "max_train_samples": 0,
+  "num_workers": 0
+}

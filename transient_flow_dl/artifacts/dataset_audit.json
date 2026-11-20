@@ -1,0 +1,51 @@
+{
+  "splits": {
+    "train": {
+      "source_files": 6078,
+      "checked_pairs": 6078
+    },
+    "validation": {
+      "source_files": 764,
+      "checked_pairs": 764
+    },
+    "test": {
+      "source_files": 764,
+      "checked_pairs": 764
+    }
+  },
+  "missing_pairs": [],
+  "bad_files": [],
+  "expected_iterations": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    7,
+    10,
+    15,
+    22,
+    32,
+    48,
+    70,
+    103,
+    152,
+    224,
+    329,
+    484,
+    713,
+    1049,
+    1544,
+    2272,
+    3344,
+    4921,
+    7242,
+    10658,
+    15686,
+    23085,
+    33974,
+    50000
+  ],
+  "ok": true
+}

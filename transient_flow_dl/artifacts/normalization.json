@@ -1,0 +1,10 @@
+{
+  "method": "training-pore speed q99.5 from deterministic per-file subsample",
+  "seed": 2026,
+  "training_files": 6078,
+  "sampled_points": 3111936,
+  "all_pore_time_points": 923630760,
+  "speed_rms": 7.641925980490093e-07,
+  "speed_q995": 5.024437996326014e-06,
+  "velocity_scale": 5.024437996326014e-06
+}

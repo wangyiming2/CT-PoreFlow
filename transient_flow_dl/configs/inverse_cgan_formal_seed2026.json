@@ -1,0 +1,16 @@
+{
+  "experiment_name": "inverse_cgan_formal_seed2026",
+  "method": "cgan",
+  "steady_root": "data\\LBM_8000_20260714_dataset",
+  "output_root": "runs",
+  "seed": 2026,
+  "latent_dim": 128,
+  "base_channels": 32,
+  "batch_size": 32,
+  "epochs": 200,
+  "learning_rate": 0.0002,
+  "porosity_weight": 10.0,
+  "connectivity_weight": 2.0,
+  "max_train_samples": 0,
+  "num_workers": 0
+}
